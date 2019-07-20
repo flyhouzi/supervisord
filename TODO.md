@@ -1,0 +1,4 @@
+- [x] basic auth
+- [x] change to cn Name
+- [x] install assets to go bin
+- [ ] compress webgui

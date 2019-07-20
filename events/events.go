@@ -5,13 +5,14 @@ import (
 	"bytes"
 	"container/list"
 	"fmt"
-	log "github.com/sirupsen/logrus"
 	"io"
 	"strconv"
 	"strings"
 	"sync"
 	"sync/atomic"
 	"time"
+
+	log "github.com/sirupsen/logrus"
 )
 
 const (

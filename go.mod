@@ -1,11 +1,11 @@
 module supervisord
 
 require (
-	github.com/GeertJohan/go.rice v0.0.0-20170420135705-c02ca9a983da
+	github.com/GeertJohan/go.rice v1.0.0
 	github.com/daaku/go.zipexe v1.0.1 // indirect
 	github.com/gorilla/mux v1.7.1
 	github.com/gorilla/rpc v1.1.0
-	github.com/jessevdk/go-flags v1.3.0
+	github.com/jessevdk/go-flags v1.4.0
 	github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1 // indirect
 	github.com/ochinchina/go-daemon v0.1.5
 	github.com/ochinchina/go-ini v1.0.1
